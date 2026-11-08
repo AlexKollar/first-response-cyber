@@ -1,0 +1,12 @@
+{
+  "format": "navi-rag/1",
+  "name": "First Response - Cyber",
+  "description": "The doctrine pack. CISA's Federal Incident & Vulnerability Response Playbooks and NIST SP 800-61 Rev. 3 \u2014 incident lifecycle, containment, eradication, recovery, and vulnerability prioritization. What Navi answers from when things go wrong",
+  "version": "0.1.0",
+  "documents": [
+    "documents/CISA_IR.txt",
+    "documents/NISTSP800.txt"
+  ],
+  "index": "index.json",
+  "generatedBy": "Apex \u2014 RAG Studio pack export"
+}
